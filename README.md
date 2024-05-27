@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I specialize in data analytics and am passionate a
 ## 🚀 What I'm Looking For
 - 💞️ I’m looking to collaborate on projects involving data analytics and visualization, where I can contribute my skills and also learn from the community.
 ## 📬 How to Reach Me
-- 📫 You can reach me by [email here](mailto:your-email@example.com) or connect with me on [LinkedIn](https://linkedin.com/in/your-linkedin).
+- 📫 You can reach me by [email here](hasithdarla@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/hasith-mani-charan-darla).
 ## 😄 Pronouns
 - He/Him
 ## ⚡ Fun Fact
