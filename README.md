@@ -16,7 +16,7 @@ Below are some projects I've worked on. Feel free to check them out and suggest 
 ### Project 1: Data Science - Hate Speech Detection Using the Machine Learing 
 A detailed exploration of tweets data visualized comprehensively using Python [https://github.com/Hasith1974/Hate-Speech-Detection](#)
 ### Project 2: Data Scince - Spam(SMS) Detection using Machine Learning
-An analytical project that dives deep into statistical analysis with R programming. [View Project](#)
+An analytical project that dives deep into statistical analysis with R programming. [https://github.com/Hasith1974/Spam-detection](#)
 
 ## 🔗 Links
 - [LinkedIn](www.linkedin.com/in/hasith-mani-charan-darla)
