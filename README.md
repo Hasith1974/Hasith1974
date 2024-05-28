@@ -24,7 +24,7 @@ An Analytical project that dives deep into machine model programming.[Project_2]
 An This project tells the youtube adview predictions To build a machine learning regression to predict youtube adview count basedon other youtube metrics.[Project_3](https://github.com/Hasith1974/YouTubeAdview_Prediction.git)
 
 ## 🔗 Links
-- [LinkedIn](www.linkedin.com/in/hasith-mani-charan-darla)
+- [LinkedIn](www.linkedin.com/in/hasith-mani-charan-darla/)
 - [Email](hasithdarla@gmail.com)
 
 <!---
