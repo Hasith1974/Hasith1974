@@ -23,6 +23,8 @@ An Analytical project that dives deep into machine model programming.[Project_2]
 ### project 3: Data Science(Machine learning) - YouTube Adview Prediction 
 An This project tells the youtube adview predictions To build a machine learning regression to predict youtube adview count basedon other youtube metrics.[Project_3](https://github.com/Hasith1974/YouTubeAdview_Prediction.git)
 
+### Project 4: Exploratory Data Analysis Using Machine learning - Credit_EDA_Project  
+
 ## 🔗 Links
 - [LinkedIn](https://www.linkedin.com/in/hasith-mani-charan-darla/)
 - [Email](hasithdarla@gmail.com)
