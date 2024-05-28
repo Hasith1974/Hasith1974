@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I specialize in data analytics and am passionate a
 ## 🚀 What I'm Looking For
 - 💞️ I’m looking to collaborate on projects involving data analytics and visualization, where I can contribute my skills and also learn from the community.
 ## 📬 How to Reach Me
-- 📫 You can reach me by [email here](hasithdarla@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/hasith-mani-charan-darla).
+- 📫 You can reach me by [email here](hasithdarla@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/hasith-mani-charan-darla/).
 ## 😄 Pronouns
 - He/Him
 ## ⚡ Fun Fact
@@ -18,7 +18,7 @@ Below are some projects I've worked on. Feel free to check them out and suggest 
 A detailed exploration of tweets data visualized comprehensively using Python [Project_1](https://github.com/Hasith1974/Hate-Speech-Detection.git)
 
 ### Project 2: Data Science - Spam(SMS) Detection using Machine Learning
-An Analytical project that dives deep into machine model programming.[Project_2](https://github.com/Hasith1974/Myprofile-Overview/Spam-detection.git)
+An Analytical project that dives deep into machine model programming.[Project_2](https://github.com/Hasith1974/Spam-detection.git)
 
 ### project 3: Data Science(Machine learning) - YouTube Adview Prediction 
 An This project tells the youtube adview predictions To build a machine learning regression to predict youtube adview count basedon other youtube metrics.[Project_3](https://github.com/Hasith1974/YouTubeAdview_Prediction.git)
