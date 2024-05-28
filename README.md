@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I specialize in data analytics and am passionate a
 Below are some projects I've worked on. Feel free to check them out and suggest improvements or ask questions!
 
 ### Project 1: Data Science - Hate Speech Detection Using the Machine Learing 
-A detailed exploration of tweets data visualized comprehensively using Python [(https://github.com/Hasith1974/Hate-Speech-Detection)](url)
+A detailed exploration of tweets data visualized comprehensively using Python [(https://github.com.Hasith1974.Hate-Speech-Detection)](url)
 
 ### Project 2: Data Science - Spam(SMS) Detection using Machine Learning
 An Analytical project that dives deep into machine model programming.[(https://github.com/Hasith1974/Myprofile-Overview/Spam-detection)](url)
