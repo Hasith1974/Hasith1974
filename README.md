@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I specialize in data analytics and am passionate a
 ## 🚀 What I'm Looking For
 - 💞️ I’m looking to collaborate on projects involving data analytics and visualization, where I can contribute my skills and also learn from the community.
 ## 📬 How to Reach Me
-- 📫 You can reach me by [email here](hasithdarla@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/hasith-mani-charan-darla/).
+- 📫 You can reach me by [email here](hasithdarla@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/hasith-mani-charan-darla/).
 ## 😄 Pronouns
 - He/Him
 ## ⚡ Fun Fact
@@ -24,7 +24,7 @@ An Analytical project that dives deep into machine model programming.[Project_2]
 An This project tells the youtube adview predictions To build a machine learning regression to predict youtube adview count basedon other youtube metrics.[Project_3](https://github.com/Hasith1974/YouTubeAdview_Prediction.git)
 
 ## 🔗 Links
-- [LinkedIn](www.linkedin.com/in/hasith-mani-charan-darla/)
+- [LinkedIn](https://www.linkedin.com/in/hasith-mani-charan-darla/)
 - [Email](hasithdarla@gmail.com)
 
 <!---
