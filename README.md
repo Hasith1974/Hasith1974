@@ -24,6 +24,7 @@ An Analytical project that dives deep into machine model programming.[Project_2]
 An This project tells the youtube adview predictions To build a machine learning regression to predict youtube adview count basedon other youtube metrics.[Project_3](https://github.com/Hasith1974/YouTubeAdview_Prediction.git)
 
 ### Project 4: Exploratory Data Analysis Using Machine learning - Credit_EDA_Project  
+Perform detailed analysis of credit data to uncover hidden patterns, relationships, and insights that can help in credit risk assessment.[Project_4](https://github.com/Hasith1974/Credit_EDA_Project.git)
 
 ## 🔗 Links
 - [LinkedIn](https://www.linkedin.com/in/hasith-mani-charan-darla/)
