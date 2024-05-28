@@ -18,11 +18,10 @@ Below are some projects I've worked on. Feel free to check them out and suggest 
 A detailed exploration of tweets data visualized comprehensively using Python [Project_1](https://github.com/Hasith1974/Hate-Speech-Detection.git)
 
 ### Project 2: Data Science - Spam(SMS) Detection using Machine Learning
-An Analytical project that dives deep into machine model programming.[https://github.com/Hasith1974/Myprofile-Overview/Spam-detection.git]
+An Analytical project that dives deep into machine model programming.[Project_2](https://github.com/Hasith1974/Myprofile-Overview/Spam-detection.git)
 
 ### project 3: Data Science(Machine learning) - YouTube Adview Prediction 
-An This project tells the youtube adview predictions To build a machine learning regression to predict youtube adview count based
-on other youtube metrics.[https://github.com/Hasith1974/YouTubeAdview_Prediction.git]
+An This project tells the youtube adview predictions To build a machine learning regression to predict youtube adview count basedon other youtube metrics.[Project_3](https://github.com/Hasith1974/YouTubeAdview_Prediction.git)
 
 ## 🔗 Links
 - [LinkedIn](www.linkedin.com/in/hasith-mani-charan-darla)
