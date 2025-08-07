@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @Hasith1974
+# 👋 Hi, I'm Hasith Mani Charan Darla
 Welcome to my GitHub profile! I specialize in data analytics and am passionate about extracting meaningful insights from data.
 ## 🌟 About Me
 - 👀 I’m deeply interested in the field of Data Science, with a particular focus on data analytics.
