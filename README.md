@@ -6,7 +6,7 @@ I'm very interested in getting useful information from data, and I'm very intere
 💞️In order to share my expertise and gain knowledge from the community, I would like to work with others on projects involving **Data Science** and **BI tools**.
 
 ## 📬 How to Reach Me
-📫 You can reach me by [email here](mailto:https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRqhKXTSQgGNVXNtlbWGRGKvqNCtrBQSCMtXqcMZKrWDNrCrDhNZgMNdrkRJqdvwGZjsXkg) or connect with me on [LinkedIn](https://www.linkedin.com/in/hasith-mani-charan-darla/).
+📫 You can reach me by (hasithdarla@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/hasith-mani-charan-darla/).
   
 ## Problem-Solving & Coding Practice
 [Hacker Rank](https://www.hackerrank.com/profile/hasithdarla)
