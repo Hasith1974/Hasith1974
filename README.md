@@ -1,20 +1,26 @@
-# 👋 Hi, I'm Hasith Mani Charan Darla
-Welcome to my GitHub profile! I specialize in data analytics and am passionate about extracting meaningful insights from data.
 ## 🌟 About Me
-- 👀 I’m deeply interested in the field of Data Science, with a particular focus on data analytics.
-- 🌱 I’m currently enhancing my skills in **Data Analytics** and **Data Visualization** using various business intelligence tools.
+# 👋 Hi, I'm Hasith Mani Charan Darla
+I have a strong interest in gleaning valuable insights from data and am enthusiastic about data science and analytics.  At the moment, I'm developing my data visualization abilities with a variety of business intelligence tools and investigating more complex areas of machine learning and applied analytics to address practical issues.
+
 ## 🚀 What I'm Looking For
-- 💞️ I’m looking to collaborate on projects involving data analytics and visualization, where I can contribute my skills and also learn from the community.
+- 💞️ I’m looking to collaborate on projects involving Data Science and BI tools, where I can contribute my skills and also learn from the community.
+  
 ## 📬 How to Reach Me
 - 📫 You can reach me by [email here](hasithdarla@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/hasith-mani-charan-darla/).
-## 😄 Pronouns
-- He/Him
-## ⚡ Fun Fact
-- I love to explore new tools and technologies that can turn data into compelling stories.
+  
+## 🔗 Problem-Solving & Coding Practice
+- ### [Hacker Rank](https://www.hackerrank.com/profile/hasithdarla)
 
-## 🔗 Links
-- [LinkedIn](https://www.linkedin.com/in/hasith-mani-charan-darla/)
-- [Email](hasithdarla@gmail.com)
+## 🚀 Machine Learning and Python Projects 
+### [🛡️ Hate Speech Detection Using Machine Learning and Python ](https://github.com/Hasith1974/Hate_Speech_Detection.git)  
+A detailed exploration of **tweets data**, visualized and analyzed using **Python** and ML techniques.  
+
+### [📩 Spam (SMS) Detection Using Machine Learning and Python ] (https://github.com/Hasith1974/Ham_Spam_Detection.git)  
+A project that applies **statistical analysis** and **Python programming** to detect spam messages effectively.  
+
+### [📊 YouTube Adview Prediction](https://github.com/Hasith1974/Youtube_addview_prediction.git)  
+A machine learning **regression model** to predict **YouTube ad view counts** based on video metadata and performance metrics.  
+
 
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
