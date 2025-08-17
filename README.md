@@ -15,14 +15,20 @@ I solve coding problems in **Python** and **SQL** on HackerRank to strengthen my
 ## 🚀 Machine Learning and Python Projects  
 [🛡️ Hate Speech Detection](https://github.com/Hasith1974/Hate-Speech-Detection.git)  
 A detailed exploration of **tweets data**, visualized and analyzed using **Python** and ML techniques.  
+
 [📩 Spam (SMS) Detection](https://github.com/Hasith1974/Spam-detection.git)  
 A project that applies **statistical analysis** and **Python programming** to detect spam messages effectively.  
+
 [📊 YouTube Adview Prediction](https://github.com/Hasith1974/YouTubeAdview_Prediction.git)  
 A machine learning **regression model** to predict **YouTube ad view counts** based on video metadata and performance metrics.  
 
-## Power Bi and Tableau Projects
-[Sale Dashboard ](https://github.com/Hasith1974/Sales-Dashboard.git)
+## Data Visualization
+[Sales Dashboard ](https://github.com/Hasith1974/Sales-Dashboard.git) **Using Tableau**
+Developed an interactive Tableau dashboard to analyze global sales (2015–2017), uncovering trends, category-wise performance, and time-based sales insights.
 
+[Credit EDA Analysis](https://github.com/Hasith1974/Credit_EDA_Project.git) **Using Python and ML Libraries**
+Analyze credit data in-depth to find hidden trends, connections, and insights that can aid in determining credit risk.
+ 
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
