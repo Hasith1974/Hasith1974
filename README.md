@@ -1,6 +1,6 @@
 ## 🌟 About Me
 # 👋 Hi, I'm Hasith Mani Charan Darla
-I love data science and analytics, and I'm very interested in getting useful information from data.  Right now, I'm using different business intelligence tools to improve my data visualization skills. I'm also looking into more advanced areas of machine learning and applied analytics to find solutions to real-world problems.
+I'm very interested in getting useful information from data, and I'm very interested in data science and analytics. I am currently improving my data visualization skills by using different business intelligence tools. I am also looking into more advanced areas of machine learning and applied analytics to find solutions to real-world problems.
 
 ## 🚀 What I'm Looking For
 💞️ I’m looking to collaborate on projects involving **Data Science** and **BI tools**, where I can contribute my skills and also learn from the community.
