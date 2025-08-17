@@ -22,7 +22,7 @@ A project that applies **statistical analysis** and **Python programming** to de
 [📊 YouTube Adview Prediction](https://github.com/Hasith1974/YouTubeAdview_Prediction.git)  
 A machine learning **regression model** to predict **YouTube ad view counts** based on video metadata and performance metrics.  
 
-## 2.Data Visualization
+## 2.Data Visualization Projects
 [Sales Dashboard ](https://github.com/Hasith1974/Sales-Dashboard.git) **Using Tableau**
 Developed an interactive Tableau dashboard to analyze global sales (2015–2017), uncovering trends, category-wise performance, and time-based sales insights.
 
