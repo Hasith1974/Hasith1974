@@ -10,7 +10,7 @@ I have a strong interest in gleaning valuable insights from data and am enthusia
   
 ## 🔗 Problem-Solving & Coding Practice
 ### [Hacker Rank](https://www.hackerrank.com/profile/hasithdarla)
-### I solve coding problems in **Python** and **SQL** on HackerRank to strengthen my programming and problem-solving skills.  
+-   I solve coding problems in **Python** and **SQL** on HackerRank to strengthen my programming and problem-solving skills.  
 
 ## 🚀 Machine Learning and Python Projects  
 ### [🛡️ Hate Speech Detection](https://github.com/Hasith1974/Hate-Speech-Detection.git)  
@@ -21,7 +21,6 @@ A project that applies **statistical analysis** and **Python programming** to de
 A machine learning **regression model** to predict **YouTube ad view counts** based on video metadata and performance metrics.  
 
 ## Power Bi and Tableau Projects
-
 
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
