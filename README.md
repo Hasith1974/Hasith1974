@@ -3,8 +3,8 @@
 I'm very interested in getting useful information from data, and I'm very interested in data science and analytics. I am currently improving my data visualization skills by using different business intelligence tools. I am also looking into more advanced areas of machine learning and applied analytics to find solutions to real-world problems.
 
 ## 🚀 What I'm Looking For
-💞️ I’m looking to collaborate on projects involving **Data Science** and **BI tools**, where I can contribute my skills and also learn from the community.
-  
+💞️In order to share my expertise and gain knowledge from the community, I would like to work with others on projects involving **Data Science** and **BI tools**.
+
 ## 📬 How to Reach Me
 📫 You can reach me by [email here](hasithdarla@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/hasith-mani-charan-darla/).
   
