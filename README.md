@@ -8,11 +8,11 @@ I have a strong interest in gleaning valuable insights from data and am enthusia
 ## 📬 How to Reach Me
 📫 You can reach me by [email here](hasithdarla@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/hasith-mani-charan-darla/).
   
-## 🔗 Problem-Solving & Coding Practice
+## Problem-Solving & Coding Practice
 [Hacker Rank](https://www.hackerrank.com/profile/hasithdarla)
 I solve coding problems in **Python** and **SQL** on HackerRank to strengthen my programming and problem-solving skills.  
 
-## 🚀 Machine Learning and Python Projects  
+## 1.Machine Learning and Python Projects  
 [🛡️ Hate Speech Detection](https://github.com/Hasith1974/Hate-Speech-Detection.git)  
 A detailed exploration of **tweets data**, visualized and analyzed using **Python** and ML techniques.  
 
@@ -22,7 +22,7 @@ A project that applies **statistical analysis** and **Python programming** to de
 [📊 YouTube Adview Prediction](https://github.com/Hasith1974/YouTubeAdview_Prediction.git)  
 A machine learning **regression model** to predict **YouTube ad view counts** based on video metadata and performance metrics.  
 
-## Data Visualization
+## 2.Data Visualization
 [Sales Dashboard ](https://github.com/Hasith1974/Sales-Dashboard.git) **Using Tableau**
 Developed an interactive Tableau dashboard to analyze global sales (2015–2017), uncovering trends, category-wise performance, and time-based sales insights.
 
