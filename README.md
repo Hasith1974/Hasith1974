@@ -12,13 +12,13 @@ I have a strong interest in gleaning valuable insights from data and am enthusia
 - ### [Hacker Rank](https://www.hackerrank.com/profile/hasithdarla)
 
 ## 🚀 Machine Learning and Python Projects 
-### [🛡️ Hate Speech Detection Using Machine Learning and Python ](https://github.com/Hasith1974/Hate_Speech_Detection.git)  
+### [🛡️ Hate Speech Detection Using Machine Learning and Python ](https://github.com/Hasith1974/Hate-Speech-Detection.git)  
 A detailed exploration of **tweets data**, visualized and analyzed using **Python** and ML techniques.  
 
-### [📩 Spam (SMS) Detection Using Machine Learning and Python ] (https://github.com/Hasith1974/Ham_Spam_Detection.git)  
+### [📩 Spam (SMS) Detection Using Machine Learning and Python ] (https://github.com/Hasith1974/)  
 A project that applies **statistical analysis** and **Python programming** to detect spam messages effectively.  
 
-### [📊 YouTube Adview Prediction](https://github.com/Hasith1974/Youtube_addview_prediction.git)  
+### [📊 YouTube Adview Prediction](https://github.com/Hasith1974/YouTubeAdview_Prediction)  
 A machine learning **regression model** to predict **YouTube ad view counts** based on video metadata and performance metrics.  
 
 
