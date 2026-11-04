@@ -16,7 +16,8 @@ I solve coding problems in **Python** and **SQL** on HackerRank to strengthen my
 [🛡️ Hate Speech Detection](https://github.com/Hasith1974/Hate_speech_detection_webapp.git)  
 A detailed exploration of **tweets data**, visualized and analyzed using **Python** and ML techniques.
 
-[🖼️ Image Deblurring Project](https://github.com/Hasith1974/Image-Deblurring-Project)
+[🖼️ Image Deblurring Project](https://github.com/Hasith1974/Image_Deblurring_NAFnet-U-Net.git)
+An image restoration project that uses **Deep Learning and CNNs** to **transform blurry images into sharper images** while preserving important visual details.
 
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
