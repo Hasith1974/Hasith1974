@@ -12,8 +12,8 @@ I'm very interested in getting useful information from data, and I'm very intere
 [Hacker Rank](https://www.hackerrank.com/profile/hasithdarla)
 I solve coding problems in **Python** and **SQL** on HackerRank to strengthen my programming and problem-solving skills.  
 
-## 1.Machine Learning and Python Projects  
-[🛡️ Hate Speech Detection](https://github.com/Hasith1974/Hate-Speech-Detection.git)  
+## 1.Machine Learning Projects  
+[🛡️ Hate Speech Detection](https://github.com/Hasith1974/Hate_speech_detection_webapp.git)  
 A detailed exploration of **tweets data**, visualized and analyzed using **Python** and ML techniques.  
 
 [📩 Spam (SMS) Detection](https://github.com/Hasith1974/Spam-detection.git)  
@@ -22,12 +22,6 @@ A project that applies **statistical analysis** and **Python programming** to de
 [📊 YouTube Adview Prediction](https://github.com/Hasith1974/YouTubeAdview_Prediction.git)  
 A machine learning **regression model** to predict **YouTube ad view counts** based on video metadata and performance metrics.  
 
-## 2.Data Visualization Projects
-[Sales Dashboard ](https://github.com/Hasith1974/Sales-Dashboard.git) **Using Tableau**
-Developed an interactive Tableau dashboard to analyze global sales (2015–2017), uncovering trends, category-wise performance, and time-based sales insights.
-
-[Credit EDA Analysis](https://github.com/Hasith1974/Credit_EDA_Project.git) **Using Python and ML Libraries**
-Analyze credit data in-depth to find hidden trends, connections, and insights that can aid in determining credit risk.
  
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
