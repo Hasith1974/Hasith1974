@@ -1,9 +1,11 @@
 ## 🌟 About Me
 # 👋 Hi, I'm Hasith Mani Charan Darla
-I'm very interested in getting useful information from data, and I'm very interested in data science and analytics. I am currently improving my data visualization skills by using different business intelligence tools. I am also looking into more advanced areas of machine learning and applied analytics to find solutions to real-world problems.
+
+I'm passionate about Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy building intelligent applications, exploring machine learning algorithms, and developing AI-powered solutions to solve real-world problems. I'm continuously learning and improving my skills in Python, Natural Language Processing (NLP), Deep Learning, and Generative AI.
 
 ## 🚀 What I'm Looking For
-💞️In order to share my expertise and gain knowledge from the community, I would like to work with others on projects involving **Data Science** and **BI tools**.
+
+💞️ I'm interested in collaborating with developers and AI enthusiasts on projects involving **Machine Learning, Deep Learning, Artificial Intelligence, and Generative AI**. I'm always excited to explore new technologies, share knowledge, and contribute to innovative AI-driven projects.
 
 ## 📬 How to Reach Me
 📫 You can reach me by (hasithdarla@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/hasith-mani-charan-darla/).
