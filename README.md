@@ -21,6 +21,9 @@ A detailed exploration of **tweets data**, visualized and analyzed using **Pytho
 [🖼️ Image Deblurring Project](https://github.com/Hasith1974/Image_Deblurring_NAFnet-U-Net.git)
 An image restoration project that uses **Deep Learning and CNNs** to **transform blurry images into sharper images** while preserving important visual details.
 
+[🚀 CustomerAssist AI ](https://github.com/Hasith1974/smart-support-ai.git)
+Developed CustomerAssist AI, an intelligent customer support chatbot using Python, LangChain, and Google Gemini, featuring five support categories, contextual multi-conversation handling, and real-time AI response streaming to deliver faster and more interactive customer assistance
+
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
