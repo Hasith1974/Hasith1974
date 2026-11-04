@@ -12,17 +12,12 @@ I'm very interested in getting useful information from data, and I'm very intere
 [Hacker Rank](https://www.hackerrank.com/profile/hasithdarla)
 I solve coding problems in **Python** and **SQL** on HackerRank to strengthen my programming and problem-solving skills.  
 
-## 1.Machine Learning Projects  
+## 1. Projects  
 [🛡️ Hate Speech Detection](https://github.com/Hasith1974/Hate_speech_detection_webapp.git)  
-A detailed exploration of **tweets data**, visualized and analyzed using **Python** and ML techniques.  
+A detailed exploration of **tweets data**, visualized and analyzed using **Python** and ML techniques.
 
-[📩 Spam (SMS) Detection](https://github.com/Hasith1974/Spam-detection.git)  
-A project that applies **statistical analysis** and **Python programming** to detect spam messages effectively.  
+[🖼️ Image Deblurring Project](https://github.com/Hasith1974/Image-Deblurring-Project)
 
-[📊 YouTube Adview Prediction](https://github.com/Hasith1974/YouTubeAdview_Prediction.git)  
-A machine learning **regression model** to predict **YouTube ad view counts** based on video metadata and performance metrics.  
-
- 
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
